@@ -7,7 +7,7 @@
   {
     "repository": "neporood/kernel_google_marlin",
     "target_path": "kernel/google/marlin",
-    "branch" :  "oreo-mr1"
+    "branch" :  "oreo"
   },
   {
     "repository": "razorloves/proprietary_vendor_google",

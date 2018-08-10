@@ -10,8 +10,8 @@
     "branch" :  "oreo"
   },
   {
-    "repository": "razorloves/proprietary_vendor_google",
+    "repository": "TheMuppets/proprietary_vendor_google",
     "target_path": "vendor/google",
-    "branch" :  "15.1-testing"
+    "branch" :  "lineage-15.1"
   }
 ]
